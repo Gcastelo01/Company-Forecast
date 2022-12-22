@@ -10,7 +10,7 @@ This refers to a evaluation of the stock current state, given its closing price,
 
 Imagine you have a set of words describing two colors: red and blue. Let red be a value, e. g. -1. Let blue also be represented as a value, e. g. 1. These are two opposits in our color spectrum/dataset. Our goal now is to find out, amongst our words, wich of them are related to blue and wich of them is related to red. To do this, we assign a value to each word. The closest this value is to -1, the more the word is related to "red". On the other hand, the closest this value is to 1, the more the word is related to "blue". This is as simple as it get. 
 
-To determine the value of a word, it is necessary to establish the context of a word, and wether it appears closer to "blue" or "red" in this context. This is achieved through some rough math, witch will not be explained here, though if you're interested in finding out more about the matter, StatQuest has some AMAZING content about PCA (here)[https://www.youtube.com/watch?v=Lsue2gEM9D0].
+To determine the value of a word, it is necessary to establish the context of a word, and wether it appears closer to "blue" or "red" in this context. This is achieved through some rough math, witch will not be explained here, though if you're interested in finding out more about the matter, StatQuest has some AMAZING content about PCA [here](https://www.youtube.com/watch?v=Lsue2gEM9D0).
 
 
 # Licence
