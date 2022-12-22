@@ -12,6 +12,12 @@ Imagine you have a set of words describing two colors: red and blue. Let red be 
 
 To determine the value of a word, it is necessary to establish the context of a word, and wether it appears closer to "blue" or "red" in this context. This is achieved through some rough math, witch will not be explained here, though if you're interested in finding out more about the matter, StatQuest has some AMAZING content about PCA [here](https://www.youtube.com/watch?v=Lsue2gEM9D0).
 
+## Compiling and Running
+
+To compile, all that is necessary is to run
+  make
+To run:
+  ./main
 
 # Licence
 
@@ -20,4 +26,6 @@ Please note that this software is currently maintained as it is under MIT Licens
 # Dependencies
 
 * Gumbo lib 0.10.1
+* C++ 17
+* g++ in it's latest version
 
