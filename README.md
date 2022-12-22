@@ -15,8 +15,11 @@ To determine the value of a word, it is necessary to establish the context of a 
 ## Compiling and Running
 
 To compile, all that is necessary is to run
+
   make
+
 To run:
+
   ./main
 
 # Licence
